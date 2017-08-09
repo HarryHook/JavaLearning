@@ -3,6 +3,7 @@ package com.algorithm.search;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Queue;
+import java.util.Scanner;
 
 /*
  *  % more tinyST.txt
@@ -36,7 +37,7 @@ public class BinarySearchST<Key extends Comparable<Key>, Value> {
 
     /**
      * Initializes an empty symbol table with the specified initial capacity.
-     * 
+     *
      * @param capacity
      *            the maximum capacity
      */
@@ -447,8 +448,9 @@ public class BinarySearchST<Key extends Comparable<Key>, Value> {
      */
     public static void main(String[] args) {
 	BinarySearchST<String, Integer> st = new BinarySearchST<String, Integer>();
-	for (int i = 0; !StdIn.isEmpty(); i++) {
-	    String key = StdIn.readString();
+        Scanner sc = new Scanner(System.in);
+	for (int i = 0; i<13; i++) {
+	    String key = sc.nextLine();
 	    st.put(key, i);
 	}
 	for (String s : st.keys())

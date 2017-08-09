@@ -1,4 +1,4 @@
-package com.imooc;
+package src.com.imooc.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
