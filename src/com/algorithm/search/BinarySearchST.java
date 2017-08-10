@@ -449,7 +449,7 @@ public class BinarySearchST<Key extends Comparable<Key>, Value> {
     public static void main(String[] args) {
 	BinarySearchST<String, Integer> st = new BinarySearchST<String, Integer>();
         Scanner sc = new Scanner(System.in);
-	for (int i = 0; i<13; i++) {
+	for (int i = 0; i<14; i++) {
 	    String key = sc.nextLine();
 	    st.put(key, i);
 	}

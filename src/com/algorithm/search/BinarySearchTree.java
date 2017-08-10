@@ -79,7 +79,9 @@ public class BinarySearchTree<T extends Comparable> {
     }
 
     /*
-     * 思路： 1.若没找到值为t的节点，返回空 。 2.若该节点的左子树或右子树为空，直接删除该节点，将子树的根节点替换掉该节点。
+     * 思路：
+     * 1.若没找到值为t的节点，返回空 。
+     * 2.若该节点的左子树或右子树为空，直接删除该节点，将子树的根节点替换掉该节点。
      * 3.该节点的左右子树都存在，将右子树的后继(右子树最小的节点)替换被删除的节点。
      */
     public void remove(T t) {
@@ -90,8 +92,9 @@ public class BinarySearchTree<T extends Comparable> {
      * 在某个位置开始判断删除某个结点
      */
     public BinaryTreeNode<T> remove(T t, BinaryTreeNode<T> node) {
-        if (node == null)
-            return node;// 没有找到,doNothing
+        if (node == null) {
+            return null;// 没有找到,doNothing
+        }
         int result = t.compareTo(node.data);
         if (result > 0)
             node.right = remove(t, node.right);
@@ -108,7 +111,9 @@ public class BinarySearchTree<T extends Comparable> {
     }
 
     /*
-     * 分层次遍历 思路： 利用队列，一层一层地出队列 — 在我们每次访问完毕一层时，这时队列中存储的刚好是下一层的所有元素。
+     * 分层次遍历 思路：
+     * 利用队列，一层一层地出队列 —
+     * 在我们每次访问完毕一层时，这时队列中存储的刚好是下一层的所有元素。
      * 在下一次循环开始时，首先记录该层的元素个数，一次性访问完这一层的所有元素
      */
     public List<T> levelVisit() {
@@ -180,9 +185,7 @@ public class BinarySearchTree<T extends Comparable> {
      * 相当于中序遍历
      */
     private List<T> searchRange(T min, T max, List<T> result, BinaryTreeNode<T> node) {
-        if (node == null) {
-            return null;
-        }
+        if (node == null) return result;
         int cmpMin = min.compareTo(node.data);
         int cmpMax = max.compareTo(node.data);
         if (cmpMin < 0) {
@@ -198,7 +201,8 @@ public class BinarySearchTree<T extends Comparable> {
     }
 
     /*
-     * 两个不同节点的最小祖先 思路： left比root节点大， 遍历root的右子树，max比root节点小，遍历root左子树
+     * 两个不同节点的最小祖先 思路：
+     * left比root节点大， 遍历root的右子树，max比root节点小，遍历root左子树
      * 不满足以上情况表示找到他们的祖先，并返回
      */
     public T getLowestCommonAncestor(T n1, T n2) {
@@ -273,10 +277,95 @@ public class BinarySearchTree<T extends Comparable> {
         return Math.max(left, right) + (Integer) root.data;
     }
 
+    /*
+    小于等于t的节点
+    思路：小于当前根节点，则向根节点的左子树进行查找
+         等于当前根节点，返回当前根节点
+         大于根节点，需要往根节点的右子树进行查找，若没找到，返回根节点
+     */
+    public T floor(T t) {
+        BinaryTreeNode<T> x = floor(root, t);
+        if (x == null) return null;
+        return x.data;
+    }
+
+    public BinaryTreeNode<T> floor(BinaryTreeNode<T> node, T t) {
+        if (node == null) {
+            return null;
+        }
+        int cmp = t.compareTo(node.data);
+        if (cmp == 0) return node;
+        if (cmp < 0) return floor(node.left, t);
+        BinaryTreeNode<T> tmp = floor(node.right, t);
+        if (tmp != null) return tmp;
+        else return node;
+    }
+
+    /*
+    大于等于t的节点
+    思路：大当前根节点，则向根节点的右子树进行查找
+         等于当前根节点，返回当前根节点
+         小于根节点，需要往根节点的左子树进行查找，若没找到，返回根节点
+     */
+    public T ceil(T t) {
+        BinaryTreeNode<T> x = ceil(root, t);
+        if (x == null) {
+            return null;
+        }
+        return x.data;
+    }
+
+    public BinaryTreeNode<T> ceil(BinaryTreeNode<T> node, T t) {
+        if (node == null) return null;
+        int cmp = t.compareTo(node.data);
+        if (cmp > 0) return ceil(node.right, t);
+        if (cmp == 0) return node;
+        BinaryTreeNode<T> tmp = ceil(node.left, t);
+        if (tmp != null) return tmp;
+        else return node;
+    }
+
+    /*
+        func(): 选取在树中排第k的节点的值(0 ~ n-1)
+     */
+    public T select(int k) {
+        if (k > size(root)) {
+            throw new RuntimeException("k is lagger than tree size!");
+        }
+        return select(root, k).data;
+    }
+
+    public BinaryTreeNode<T> select(BinaryTreeNode<T> node, int k) {
+        if (node == null) {
+            return null;
+        }
+        int cnt = size(node.left);
+        if (cnt > k) {
+            return select(node.left, k);
+        } else if (cnt < k) {
+            return select(node.right, k - cnt - 1);
+        } else {
+            return node;
+        }
+    }
+
+    public int rank(T t) {
+        return rank(root, t);
+    }
+    public int rank(BinaryTreeNode<T> node, T t) {
+        if (node == null) {
+            return 0;
+        }
+        int cmp = t.compareTo(node.data);
+        if (cmp < 0) return rank(node.left, t);
+        else if (cmp > 0) return 1 + size(node.left) + rank(node.right, t);
+        else return size(node.left);
+    }
+
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = new BinaryTreeNode<Integer>(5);
         root.left = new BinaryTreeNode<Integer>(2);
-        root.right = new BinaryTreeNode<Integer>(6);
+        root.right = new BinaryTreeNode<Integer>(8);
         root.left.left = new BinaryTreeNode<Integer>(1);
         root.left.right = new BinaryTreeNode<Integer>(4);
         root.left.right.left = new BinaryTreeNode<Integer>(3);
@@ -287,6 +376,9 @@ public class BinarySearchTree<T extends Comparable> {
         System.out.println("getNodesBetween: " + tree.getNodesBetween(1, 6));
         System.out.println("getLowestCommonAncestor: " + tree.getLowestCommonAncestor(1, 6));
         System.out.println("maxPath: " + tree.maxPathSum(root));
+        System.out.println("floor: " + tree.floor(7));
+        System.out.println("ceil: " + tree.ceil(6));
+        System.out.println("select: " + tree.select(1));
+        System.out.println("rank: " + tree.rank(2));
     }
-
 }
