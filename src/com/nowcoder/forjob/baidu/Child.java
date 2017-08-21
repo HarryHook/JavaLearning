@@ -1,4 +1,4 @@
-package com.prepareforbat.baidu;
+package com.nowcoder.forjob.baidu;
 
 class Person {
     public String name = "person";

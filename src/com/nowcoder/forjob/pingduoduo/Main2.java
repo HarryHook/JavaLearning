@@ -1,4 +1,4 @@
-package com.prepareforbat.pingduoduo;
+package com.nowcoder.forjob.pingduoduo;
 
 import java.util.Arrays;
 import java.util.*;

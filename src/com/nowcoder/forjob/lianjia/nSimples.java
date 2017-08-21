@@ -1,4 +1,4 @@
-package com.prepareforbat.lianjia;
+package com.nowcoder.forjob.lianjia;
 
 import java.util.Scanner;
 import java.util.TreeSet;
