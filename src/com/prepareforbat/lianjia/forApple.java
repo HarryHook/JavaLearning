@@ -1,0 +1,24 @@
+package com.prepareforbat.lianjia;
+
+import java.util.Scanner;
+
+public class forApple {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int num[] = new int[10];
+        for (int i = 0; i < 10; i++) {
+            num[i] = sc.nextInt();
+        }
+
+        int height = sc.nextInt();
+        int count = 0;
+        for(int i=0; i<10; i++) {
+            if(height+30 >= num[i]) {
+                count ++;
+            }
+        }
+        System.out.println(count);
+        sc.close();
+    }
+}
