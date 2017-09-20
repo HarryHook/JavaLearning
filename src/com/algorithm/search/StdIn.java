@@ -2,7 +2,7 @@ package com.algorithm.search;
 
 /******************************************************************************
  *  Compilation:  javac StdIn.java
- *  Execution:    java StdIn   (interactive test of basic functionality)
+ *  Execution:    java StdIn   (interactive forjob of basic functionality)
  *  Dependencies: none
  *
  *  Reads in data of various types from standard input.
@@ -605,7 +605,7 @@ public final class StdIn {
 
 
     /**
-     * Interactive test of basic functionality.
+     * Interactive forjob of basic functionality.
      *
      * @param args the command-line arguments
      */

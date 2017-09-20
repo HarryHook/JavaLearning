@@ -10,7 +10,7 @@ public class UrlTest {
 	    //创建URL实例
 	    URL imooc = new URL("http://www.imooc.com");
 	    //?后表示参数#后表示锚点
-	    URL url = new URL(imooc, "/index.html?username=tom#test"); 
+	    URL url = new URL(imooc, "/index.html?username=tom#forjob");
 	    System.out.println("协议信息： " + url.getProtocol());
 	    System.out.println("主机信息： " + url.getHost());
 	    //http默认端口号为80，未指定端口号返回-1
