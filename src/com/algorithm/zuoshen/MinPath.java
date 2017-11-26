@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class MinPath {
     public static void main(String[] args) {
         int[][] m = {{1, 3, 5, 9}, {8, 1, 3, 4}, {5, 0, 6, 1}, {8, 8, 4, 0}};
-        int res1 = minpath1(m);
+        int res1 = maxpath1(m);
         System.out.println("res1 " + res1);
         int res2 = minpath2(m);
         System.out.println("res2 " + res2);
@@ -14,7 +14,7 @@ public class MinPath {
 
     }
 
-    public static int minpath1(int[][] m) {
+    public static int maxpath1(int[][] m) {
         if (m == null || m.length == 0 || m == null || m[0].length == 0) {
             return 0;
         }
@@ -30,7 +30,7 @@ public class MinPath {
         }
         for (int i = 1; i < row; i++) {
             for (int j = 1; j < col; j++) {
-                dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + m[i][j];
+                dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]) + m[i][j];
             }
         }
         return dp[row - 1][col - 1];

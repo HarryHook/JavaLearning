@@ -15,7 +15,7 @@ public class HeapSort {
     }
 
     private static void heapSort(int[] a, int n) {
-        for (int i = n / 2 - 1; i >= 0; i--) {
+        for (int i = n / 2 - 1; i >= 0; i--) {   //二叉树中
             maxHeapDown(a, i, n - 1);
         }
         for (int i = n - 1; i > 0; i--) {
@@ -35,12 +35,12 @@ public class HeapSort {
         int tmp = a[cur];
         int child = 2 * cur + 1;
         for (; child <= end; cur = child, child = 2 * child + 1) {
-            if (child < end && a[child] < a[child + 1]) {
+            if (child < end && a[child] < a[child + 1]) {   //找到孩子中最大的那个
                 child++;
             }
             if (tmp >= a[child]) {
                 break;
-            } else {
+            } else {    //父节点小于孩子时进行交换
                 a[cur] = a[child];
                 a[child] = tmp;
             }

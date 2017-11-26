@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/algorithm/zuoshen/SelectionSort.java" line="25" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="13a9518f-1558-4ac2-8350-e1c83c7f6257" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SweetShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ToyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/RandomListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/TreeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/collection/HashMapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/reference/ReferenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/Count.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/DaemonDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/InterruptDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/JoinTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/NotifyAllTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/ProAndCusDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/RunThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/StartMethodTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SynBlockDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SynchronizedDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/WaitMillsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/WaitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/YieldLockTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/YieldTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/AssociativeArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/CountedString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/FillingLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/LinkedHashSetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/SortedSetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/enumDemo/WeekEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/CoffeeGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Covariant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/FourTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Generators.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/GenericMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/GenericVarargs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Holder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Holder3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/IterableFibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/LinkedStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/RandomList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/ThreeTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/TupleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/TwoTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ClassInitialization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/HiddenImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/LiteralPetCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ModifyingPrivateFields.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/NullRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Pet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/PetCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Position.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Robot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SelectingMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ShowMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SimpleDynamicProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SnowRemovalRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Staff.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/Hello.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloBaseListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloBaseVisitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloLexer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloVisitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Assert.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/AssertionFailedError.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Calculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/CalculatorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestFailure.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestResult.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestSuite.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coding.iml" afterPath="$PROJECT_DIR$/coding.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/dp/MaxSumOfArrray.java" afterPath="$PROJECT_DIR$/src/com/algorithm/dp/MaxSumOfArrray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java" afterPath="$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/com/algorithm/sort/HeapSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/zuoshen/MinPath.java" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/MinPath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/forjob/didi/Xor.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/forjob/didi/Xor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/forjob/jingdong/Main2.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/forjob/jingdong/Main2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +104,14 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/coding$Main2.coverage" NAME="Main2 Coverage Results" MODIFIED="1503284730274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.prepareforbat.pingduoduo.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/coding$BinarySearchTest_testBinarySearchForAValue.coverage" NAME="BinarySearchTest.testBinarySearchForAValue Coverage Results" MODIFIED="1502198355373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.com.algorithm.search.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/coding$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1510659310930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.algorithm.sort.*</FILTER>
     </SUITE>
   </component>
   <component name="DatabaseView">
@@ -33,62 +125,110 @@
     <expand />
     <select />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="coding" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java">
+      <file leaf-file-name="ReverseSentance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReverseSentance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8448">
-              <caret line="395" column="37" lean-forward="false" selection-start-line="395" selection-start-column="37" selection-end-line="395" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-217">
-              <caret line="349" column="5" lean-forward="true" selection-start-line="349" selection-start-column="5" selection-end-line="349" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#9448#9457#0" expanded="true" />
-                <element signature="e#9806#9815#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hello.g4" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/antlr/Hello.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinaryTreeNode.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="154">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java">
+      <file leaf-file-name="RegxMatch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/RegxMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="88">
+              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SleepTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintListFromTailToHead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintListFromTailToHead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintMinNum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintMinNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReConstructBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReConstructBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReOrderArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReOrderArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,12 +241,40 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>   </find>
+      <find />
+      <find>  </find>
+      <find>remove</find>
+      <find>       </find>
+      <find>        </find>
+      <find>Iterator</find>
+      <find>    </find>
+      <find>return true;</find>
+      <find>topK</find>
+      <find>maxSub</find>
+      <find>maxSum</find>
+      <find>run</find>
+      <find>run(</find>
+      <find>ListDemo</find>
+      <find>公共</find>
+      <find>hash</find>
+      <find>transfer</find>
+    </findStrings>
     <dirStrings>
       <dir>F:\coding\src\com</dir>
+      <dir>F:\coding\src\com\</dir>
+      <dir>F:\coding</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -120,36 +288,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/com/algorithm/search/BinarySearchSTTest.java" />
-        <option value="$PROJECT_DIR$/src/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/com/github/HarryHook/coding2017/jvm/clz/ClassFile.java" />
-        <option value="$PROJECT_DIR$/src/test/src/com/github/HarryHook/coding2017/array/ArrayUtilTest.java" />
-        <option value="$PROJECT_DIR$/src/test/test/com/algorithm/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/jdbc/DBUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/nowcoder/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/test/src/com/algorithm/search/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/test/com/algorithm/search/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/test/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/test/test/com/algorithm/search/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/test/src/com/imooc/jdbc/DBUtilTest.java" />
-        <option value="$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/test/test/com/algorithm/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/search/BinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/test/com/algorithm/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/test/com/algorithm/search/BinarySearchSTTest.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/search/StdIn.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java" />
-        <option value="$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/src/com/thinking/in/java/container/CountedString.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/MoreThanHalfNum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/dp/MaxSumOfArrray.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/NumberOf1Between1.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintMinNum.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/GetUglyNumber_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FirstNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/RunThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/COunt.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/SynchronizedDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/Count.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/StartMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/SynBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/SynBlockDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/WaitTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/WaitMillsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/NotifyAllTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/YieldTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/YieldLockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/JoinTest.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/zuoshen/ListDemo.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/test/com/algorithm/search/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/src/com/collection/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/DaemonDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/InterruptDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/ProAndCusDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/InversePairsCore.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindContinuousSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumbersWithSum.fxml" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/LeftRotateString.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/beautyOfProgramming.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/BeautyOfPrograming/HalfOfCPU.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/msb/model/User.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/model/User.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/dao/UserDao.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/dao/UserDaoImpl.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/service/UserService.java" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/test.xml" />
+        <option value="F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/Sample1.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReverseSentance.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/StrToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/com/nowcoder/swordForOffer/RegxMatch.java" />
+        <option value="$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -166,6 +367,54 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -185,9 +434,9 @@
       <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
@@ -195,9 +444,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,46 +467,45 @@
               <item name="coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="skywang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="antlr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rtti" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coding" type="58d84e3e:PackageViewProjectNode" />
+              <item name="coding" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/jdom-2.0.6/jdom-2.0.6.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -274,12 +519,16 @@
       <recent name="F:\coding\Test\search" />
       <recent name="F:\coding\Test" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\coding\src\com\algorithm\search" />
       <recent name="F:\coding\src\com" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nowcoder.swordForOffer" />
+      <recent name="com.nowcoder.sword.to.offer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,15 +543,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchSTTest (1)">
-    <configuration name="BinarySearchST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SleepTest">
+    <configuration name="LastRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.search.*" />
+          <option name="PATTERN" value="com.nowcoder.swordForOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.search.BinarySearchST" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.swordForOffer.LastRemaining_Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -314,105 +563,81 @@
       <module name="coding" />
       <envs />
     </configuration>
-    <configuration name="BinarySearchSTTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.com.algorithm.search.*" />
+          <option name="PATTERN" value="com.nowcoder.swordForOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="coding" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.swordForOffer.ReOrderArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.algorithm.search" />
-      <option name="MAIN_CLASS_NAME" value="test.com.algorithm.search.BinarySearchSTTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="coding" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="BinarySearchSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegxMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.search.*" />
+          <option name="PATTERN" value="com.nowcoder.swordForOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="coding" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.swordForOffer.RegxMatch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.algorithm.search" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.search.BinarySearchSTTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="coding" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="BinarySearchTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SleepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.search.*" />
+          <option name="PATTERN" value="com.skywang.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="coding" />
+      <option name="MAIN_CLASS_NAME" value="com.skywang.thread.SleepTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.algorithm.search" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.search.BinarySearchTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="coding" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.com.algorithm.search.*" />
+          <option name="PATTERN" value="com.nowcoder.swordForOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="coding" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.swordForOffer.StrToInt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.com.algorithm.search" />
-      <option name="MAIN_CLASS_NAME" value="test.com.algorithm.search.BinarySearchTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="coding" />
       <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -496,24 +721,27 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySearchTest (1)" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BinarySearchSTTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BinarySearchST" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BinarySearchTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySearchSTTest (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LastRemaining_Solution" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StrToInt" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReOrderArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RegxMatch" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SleepTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySearchSTTest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BinarySearchTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BinarySearchST" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BinarySearchSTTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySearchTest (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SleepTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RegxMatch" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReOrderArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StrToInt" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LastRemaining_Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -527,22 +755,153 @@
       <workItem from="1502241908925" duration="5095000" />
       <workItem from="1502247284398" duration="2422000" />
       <workItem from="1502249753901" duration="5350000" />
+      <workItem from="1502378222577" duration="223000" />
+      <workItem from="1502378737544" duration="8000" />
+      <workItem from="1502610338749" duration="9365000" />
+      <workItem from="1502636991239" duration="18000" />
+      <workItem from="1502638354656" duration="12000" />
+      <workItem from="1502672508041" duration="3448000" />
+      <workItem from="1502682210209" duration="4723000" />
+      <workItem from="1502694943862" duration="3033000" />
+      <workItem from="1502715438083" duration="1410000" />
+      <workItem from="1502761693864" duration="621000" />
+      <workItem from="1502763988325" duration="7741000" />
+      <workItem from="1502788371022" duration="73000" />
+      <workItem from="1502867543980" duration="1059000" />
+      <workItem from="1502953999839" duration="9297000" />
+      <workItem from="1503017423878" duration="590000" />
+      <workItem from="1503068703359" duration="64000" />
+      <workItem from="1503109974066" duration="8465000" />
+      <workItem from="1503123965759" duration="805000" />
+      <workItem from="1503132567409" duration="7601000" />
+      <workItem from="1503146025640" duration="3828000" />
+      <workItem from="1503155799886" duration="34000" />
+      <workItem from="1503242821615" duration="1047000" />
+      <workItem from="1503276693838" duration="9358000" />
+      <workItem from="1503316666254" duration="2000" />
+      <workItem from="1503316775925" duration="1258000" />
+      <workItem from="1503392142736" duration="2917000" />
+      <workItem from="1503496740602" duration="2373000" />
+      <workItem from="1503986447293" duration="599000" />
+      <workItem from="1504005220574" duration="2936000" />
+      <workItem from="1504016613335" duration="865000" />
+      <workItem from="1504080159828" duration="1481000" />
+      <workItem from="1504094910955" duration="5000" />
+      <workItem from="1504107547767" duration="1022000" />
+      <workItem from="1504139013884" duration="5488000" />
+      <workItem from="1504181555605" duration="3960000" />
+      <workItem from="1504190525665" duration="1757000" />
+      <workItem from="1504245815844" duration="20000" />
+      <workItem from="1504313625640" duration="8629000" />
+      <workItem from="1504364699370" duration="2723000" />
+      <workItem from="1504403330637" duration="33000" />
+      <workItem from="1504530515066" duration="1725000" />
+      <workItem from="1504533800953" duration="5837000" />
+      <workItem from="1504681489987" duration="2721000" />
+      <workItem from="1504697557860" duration="2782000" />
+      <workItem from="1504707643937" duration="1546000" />
+      <workItem from="1504794967213" duration="382000" />
+      <workItem from="1504846408098" duration="4353000" />
+      <workItem from="1504853637688" duration="967000" />
+      <workItem from="1504870817772" duration="5903000" />
+      <workItem from="1504943703722" duration="2267000" />
+      <workItem from="1504948170970" duration="3769000" />
+      <workItem from="1504959767175" duration="1875000" />
+      <workItem from="1505020700727" duration="15351000" />
+      <workItem from="1505213106975" duration="4219000" />
+      <workItem from="1505219977420" duration="3107000" />
+      <workItem from="1505229109096" duration="663000" />
+      <workItem from="1505266754398" duration="17000" />
+      <workItem from="1505298336221" duration="3584000" />
+      <workItem from="1505312232065" duration="629000" />
+      <workItem from="1505391156675" duration="4459000" />
+      <workItem from="1505399293613" duration="2584000" />
+      <workItem from="1505485982626" duration="4149000" />
+      <workItem from="1505540952810" duration="11419000" />
+      <workItem from="1505571434252" duration="1173000" />
+      <workItem from="1505662411283" duration="1906000" />
+      <workItem from="1505728112558" duration="1730000" />
+      <workItem from="1505745613024" duration="3719000" />
+      <workItem from="1505749818194" duration="247000" />
+      <workItem from="1505750206968" duration="115000" />
+      <workItem from="1505788714107" duration="5118000" />
+      <workItem from="1505825333793" duration="776000" />
+      <workItem from="1505828537673" duration="2466000" />
+      <workItem from="1505893977532" duration="5161000" />
+      <workItem from="1505919682304" duration="3009000" />
+      <workItem from="1505974908753" duration="3133000" />
+      <workItem from="1506095954947" duration="9000" />
+      <workItem from="1506128765427" duration="3656000" />
+      <workItem from="1506141047272" duration="1911000" />
+      <workItem from="1506176426930" duration="6000" />
+      <workItem from="1506148054031" duration="107000" />
+      <workItem from="1506442168589" duration="454000" />
+      <workItem from="1506510222753" duration="7310000" />
+      <workItem from="1507518856084" duration="945000" />
+      <workItem from="1507520395013" duration="4241000" />
+      <workItem from="1507548180984" duration="753000" />
+      <workItem from="1507700523930" duration="601000" />
+      <workItem from="1508072749245" duration="2281000" />
+      <workItem from="1508083125846" duration="239000" />
+      <workItem from="1508238919240" duration="5267000" />
+      <workItem from="1508288566047" duration="4282000" />
+      <workItem from="1508297486292" duration="263000" />
+      <workItem from="1508503518625" duration="1263000" />
+      <workItem from="1508509321961" duration="9000" />
+      <workItem from="1508598670141" duration="2283000" />
+      <workItem from="1508640626492" duration="6090000" />
+      <workItem from="1508808232361" duration="3848000" />
+      <workItem from="1508842242185" duration="1327000" />
+      <workItem from="1509027822192" duration="4808000" />
+      <workItem from="1509068656934" duration="14892000" />
+      <workItem from="1509120346835" duration="1021000" />
+      <workItem from="1509156436581" duration="7148000" />
+      <workItem from="1509285815465" duration="4877000" />
+      <workItem from="1509357063101" duration="608000" />
+      <workItem from="1509365642233" duration="3162000" />
+      <workItem from="1509440657915" duration="476000" />
+      <workItem from="1509455895287" duration="1144000" />
+      <workItem from="1509624979182" duration="6954000" />
+      <workItem from="1509698252964" duration="4085000" />
+      <workItem from="1509761468492" duration="9170000" />
+      <workItem from="1509797021645" duration="1198000" />
+      <workItem from="1509953689491" duration="10832000" />
+      <workItem from="1509976469933" duration="73000" />
+      <workItem from="1510048019852" duration="3371000" />
+      <workItem from="1510066603615" duration="966000" />
+      <workItem from="1510109831578" duration="2071000" />
+      <workItem from="1510097057996" duration="3961000" />
+      <workItem from="1510190652015" duration="14354000" />
+      <workItem from="1510284029480" duration="14994000" />
+      <workItem from="1510322353256" duration="1865000" />
+      <workItem from="1510377868712" duration="9499000" />
+      <workItem from="1510463867444" duration="7300000" />
+      <workItem from="1510494553958" duration="3460000" />
+      <workItem from="1510536930799" duration="1091000" />
+      <workItem from="1510538266766" duration="72000" />
+      <workItem from="1510538580530" duration="5568000" />
+      <workItem from="1510564016525" duration="3170000" />
+      <workItem from="1510567521600" duration="368000" />
+      <workItem from="1510579044532" duration="6744000" />
+      <workItem from="1510626343726" duration="3736000" />
+      <workItem from="1510642682614" duration="10839000" />
+      <workItem from="1510726953662" duration="2886000" />
+      <workItem from="1510833841690" duration="4656000" />
+      <workItem from="1510845753595" duration="414000" />
+      <workItem from="1510846211006" duration="290000" />
+      <workItem from="1510903050083" duration="3134000" />
+      <workItem from="1510932063218" duration="611000" />
+      <workItem from="1511082574422" duration="4344000" />
+      <workItem from="1511247453445" duration="2944000" />
+      <workItem from="1511318599475" duration="71000" />
+      <workItem from="1511318674577" duration="2517000" />
+      <workItem from="1511333961095" duration="66000" />
+      <workItem from="1511578223977" duration="452000" />
+      <workItem from="1511701070073" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchSTTest - 2017.08.09 at 11h 59m 26s.xml">
-      <configuration name="BinarySearchSTTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchSTTest_(1) - 2017.08.09 at 12h 47m 48s.xml">
-      <configuration name="BinarySearchSTTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest - 2017.08.09 at 12h 40m 02s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest - 2017.08.09 at 12h 40m 22s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BinarySearchTest - 2017.08.09 at 12h 40m 54s.xml">
       <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
@@ -561,9 +920,21 @@
     <history-entry file="BinarySearchTreeTest - 2017.08.09 at 10h 38m 57s.xml">
       <configuration name="BinarySearchTreeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest - 2017.08.14 at 11h 01m 14s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_(1) - 2017.08.14 at 12h 59m 09s.xml">
+      <configuration name="CalculatorTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_(1) - 2017.08.14 at 12h 59m 16s.xml">
+      <configuration name="CalculatorTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2017.08.14 at 12h 58m 18s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23812000" />
+    <option name="totallyTimeSpent" value="479176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,59 +947,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31378764" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30206677" sideWeight="0.5058565" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3243243" sideWeight="0.4941435" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2607313" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.215959" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" x="529" y="147" width="307" height="433" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28843337" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="529" y="147" width="307" height="433" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16375199" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31378764" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24165341" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3141946" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22547585" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" x="529" y="147" width="307" height="433" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32750398" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +988,191 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/leetcode/AllLessNumSubArray.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/leetcode/MaximalRectangle.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/leetcode/MaximalRectangle.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/pingduoduo/TwoBigIntegerMiltiply.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/pingduoduo/Main2.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/pingduoduo/Main2.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/wangyi/day0909/LcsString.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/wangyi/day0909/LcsString.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/didi/Xor.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/didi/PrintDidi.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/didi/PrintDidi.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/meituan/Main1.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/zuoshen/MergeLinkedList.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/zuoshen/MergeLinkedList.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/mi/DecodeWays.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/thinking/in/java/generics/IterableFibonacci.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/GetUglyNumber_Solution.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/leetcode/AllLessNumSubArray.java</url>
+          <line>5</line>
+          <properties class="com.algorithm.leetcode.AllLessNumSubArray" method="getNum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/forjob/mi/DecodeWays.java</url>
+          <line>12</line>
+          <properties class="com.nowcoder.forjob.mi.DecodeWays" method="numDecoding">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/thinking/in/java/generics/IterableFibonacci.java</url>
+          <line>27</line>
+          <properties class="com.thinking.in.java.generics.IterableFibonacci" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/zuoshen/TreeDemo.java</url>
+          <line>34</line>
+          <properties class="com.algorithm.zuoshen.TreeDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java</url>
+          <line>5</line>
+          <properties class="com.nowcoder.swordForOffer.Permutation" method="permutation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java</url>
+          <line>46</line>
+          <properties class="com.nowcoder.swordForOffer.Permutation" method="permutation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/GetUglyNumber_Solution.java</url>
+          <line>3</line>
+          <properties class="com.nowcoder.swordForOffer.GetUglyNumber_Solution" method="getUglyNumber">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="156" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -648,231 +1181,335 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/zuoshen/ListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#9448#9457#0" expanded="true" />
-            <element signature="e#9806#9815#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6630">
-          <caret line="454" column="48" lean-forward="false" selection-start-line="454" selection-start-column="48" selection-end-line="454" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/StdIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="6776">
+          <caret line="308" column="9" lean-forward="false" selection-start-line="308" selection-start-column="9" selection-end-line="308" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="1584">
+          <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java">
+    <entry file="file://$PROJECT_DIR$/src/com/collection/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5500">
+          <caret line="262" column="9" lean-forward="false" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/YieldLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/DaemonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/test/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/coding.iml">
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19822">
+          <caret line="964" column="66" lean-forward="false" selection-start-line="964" selection-start-column="55" selection-end-line="964" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/InterruptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/ProAndCusDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
-          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumbersWithSum.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/beautyOfProgramming.java" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/model/User.java" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/dao/UserDao.java" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/dao/UserDaoImpl.java" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/Spring_0100_AbstractOrientedPrograming.iml" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/service/UserService.java" />
+    <entry file="jar://$USER_HOME$/Documents/jdom-2.0.6/jdom-2.0.6.jar!/org/jdom2/input/SAXBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="4235">
+          <caret line="490" column="0" lean-forward="false" selection-start-line="490" selection-start-column="0" selection-end-line="490" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/github/HarryHook/coding2017/jvm/test/ClassFileloaderTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/dataStructure/stack/InfixExpr_v2.java" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/test.xml" />
+    <entry file="file://F:/Spring_0100_AbstractOrientedPrograming/src/com/spring/Sample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BeautyOfPrograming/HalfOfCPU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="235" column="23" lean-forward="false" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding.iml">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/StrToInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="44" column="9" lean-forward="false" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        <state relative-caret-position="338">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/coding/com/algorithm/search/BinarySearch.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/github/HarryHook/coding2017/jvm/clz/ClassFile.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/github/HarryHook/coding2017/array/ArrayUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/github/HarryHook/coding2017/array/ArrayUtilTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/src/com/github/HarryHook/coding2017/array/ArrayUtilTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/github/HarryHook/coding2017/jvm/attr/LocalVariableTable.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="-102">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FindNumsAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/src/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/test/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/test/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/test/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/imooc/jdbc/DBUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/InversePairsCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/IsContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/IsPopOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/com/imooc/jdbc/DBUtilTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/src/com/algorithm/search/StdInTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/src/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/test/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/com/algorithm/search/BinarySearchTreeTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/com/algorithm/search/BinarySearchSTTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/StdIn.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/LastRemaining_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinaryTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/LeftRotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/MinNumberInRotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="349" column="5" lean-forward="true" selection-start-line="349" selection-start-column="5" selection-end-line="349" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#9448#9457#0" expanded="true" />
-            <element signature="e#9806#9815#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/Test/search/BinarySearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/search/BinarySearchST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8448">
-          <caret line="395" column="37" lean-forward="false" selection-start-line="395" selection-start-column="37" selection-end-line="395" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/algorithm/search/BinarySearchSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/algorithm/search/BinarySearchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/MirrorTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/MoreThanHalfNum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/NumberOf1Between1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/PrintMinNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReOrderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/ReverseSentance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nowcoder/swordForOffer/RegxMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.13642564" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -922,11 +1559,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>coding</last-edited>
+          <last-edited>Spring_0100_AbstractOrientedPrograming</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -946,7 +1584,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mysql-connector-java-5.1.42-bin</last-edited>
+          <last-edited>jdom-2.0.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -961,7 +1599,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.13642564" />
               </list>
             </option>
           </splitter-proportions>

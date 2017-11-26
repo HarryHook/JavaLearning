@@ -1,5 +1,7 @@
 package com.nowcoder.forjob.didi;
 
+import java.util.HashMap;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Xor {
@@ -26,9 +28,9 @@ public class Xor {
         System.out.println(res);
     }
 
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println(5^6);
+        System.out.println(5 ^ 6);
         while (sc.hasNext()) {
             int num = sc.nextInt();
             int[] arr = new int[num];
@@ -59,5 +61,47 @@ public class Xor {
             }
             System.out.println(count);
         }
+    }
+
+    public static void main(String[] args) {
+//        int[] a = generate(10);
+        int[] a = {3, 2, 1, 1, 1, 0, 2, 2};
+        int ans = 0;
+        int tmp = 0;
+        for (int i = a.length - 1; i > 0; i--) {
+            tmp ^= a[i] ^ a[i - 1];
+            if (i > 0 && (tmp == 0 || a[i] == 0)) {
+                ans++;
+                i--;
+            }
+        }
+        System.out.println(mostXor(a));
+    }
+
+    public static int[] generate(int n) {
+        int[] a = new int[n];
+        Random random = new Random(10);
+        for (int i = 0; i < n; i++) {
+            a[i] = random.nextInt(100);
+        }
+        return a;
+    }
+
+    public static int mostXor(int[] a) {
+        int ans = Integer.MIN_VALUE;
+        int xor = 0;
+        int[] mosts = new int[a.length];
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
+        for (int i = 0; i < a.length; i++) {
+            xor ^= a[i];
+            if (map.containsKey(xor)) {
+                int pre = map.get(xor);
+                mosts[i] = pre == -1 ? 1 : (mosts[pre] + 1);
+            }
+            map.put(xor, i);
+            ans = Math.max(ans, mosts[i]);
+        }
+        return ans;
     }
 }

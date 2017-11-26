@@ -13,11 +13,9 @@ public class Main2 {
         return (a > b) ? a : b;
     }
 
-
     public static long gcd(long a, long b) {
         return (a % b == 0) ? b : gcd(b, a % b);
     }
-
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
