@@ -5,92 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13a9518f-1558-4ac2-8350-e1c83c7f6257" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/RandomListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/TreeDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/collection/HashMapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/reference/ReferenceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/Count.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/DaemonDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/InterruptDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/JoinTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/NotifyAllTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/ProAndCusDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/RunThreadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/StartMethodTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SynBlockDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/SynchronizedDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/WaitMillsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/WaitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/YieldLockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/skywang/thread/YieldTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/AssociativeArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/CountedString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/FillingLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/LinkedHashSetDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/container/SortedSetDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/enumDemo/WeekEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Coffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/CoffeeGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Covariant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/FourTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Generators.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/GenericMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/GenericVarargs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Holder2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/Holder3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/IterableFibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/LinkedStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/RandomList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/ThreeTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/TupleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/generics/TwoTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ClassInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/HiddenImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/LiteralPetCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ModifyingPrivateFields.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/NullRobot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/PetCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Position.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Robot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SelectingMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/ShowMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SimpleDynamicProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/SnowRemovalRobot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thinking/in/java/rtti/Staff.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/Hello.tokens" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloBaseListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloBaseVisitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloLexer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloLexer.tokens" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/antlr/HelloVisitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Assert.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/AssertionFailedError.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Calculator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/CalculatorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestFailure.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestResult.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/litejunit/v1/TestSuite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/Hello.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/HelloBaseListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/HelloLexer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/HelloLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/HelloListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/antlr/HelloParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/com/coding/com/antlr/Hello.g4" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coding.iml" afterPath="$PROJECT_DIR$/coding.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/dp/MaxSumOfArrray.java" afterPath="$PROJECT_DIR$/src/com/algorithm/dp/MaxSumOfArrray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java" afterPath="$PROJECT_DIR$/src/com/algorithm/search/BinarySearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/com/algorithm/sort/HeapSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/com/algorithm/sort/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/algorithm/zuoshen/MinPath.java" afterPath="$PROJECT_DIR$/src/com/algorithm/zuoshen/MinPath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/forjob/didi/Xor.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/forjob/didi/Xor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nowcoder/forjob/jingdong/Main2.java" afterPath="$PROJECT_DIR$/src/com/nowcoder/forjob/jingdong/Main2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -454,6 +377,29 @@
             <path>
               <item name="coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -467,7 +413,7 @@
               <item name="coding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="skywang" type="462c0819:PsiDirectoryNode" />
+              <item name="antlr" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding" type="b2602c69:ProjectViewProjectNode" />
@@ -897,7 +843,7 @@
       <workItem from="1511318674577" duration="2517000" />
       <workItem from="1511333961095" duration="66000" />
       <workItem from="1511578223977" duration="452000" />
-      <workItem from="1511701070073" duration="11000" />
+      <workItem from="1511701070073" duration="472000" />
     </task>
     <servers />
   </component>
@@ -934,7 +880,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479176000" />
+    <option name="totallyTimeSpent" value="479637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1491,7 +1437,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/skywang/thread/SleepTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding />
         </state>
       </provider>
