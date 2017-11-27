@@ -1,5 +1,7 @@
 package com.algorithm.zuoshen;
 
+import java.util.List;
+
 public class ListDemo {
     /*
     复制带有随机节点的链表
@@ -276,6 +278,52 @@ public class ListDemo {
         return null;
 
     }
+    /*
+    删除重复的节点，不保留
+    1->1->2->2->4->5->5->7,删除后返回 4->7
+     */
+    public static ListNode deleteDuplicationAll(ListNode pHead) {
+        if (pHead == null) return pHead;
+        ListNode first = new ListNode(-1);
+        first.next = pHead;
+        ListNode p = pHead;
+        ListNode last = first;
+        while (p != null && p.next != null) {
+
+            if (p.val == p.next.val) {
+                int val = p.val;
+                while (p != null && val == p.val) {
+                    p = p.next;
+                }
+                last.next = p;
+            } else {
+                last = p;
+                p = p.next;
+            }
+        }
+        return first.next;
+    }
+    /*
+    删除重复的节点，但是保留一个
+    1->1->2->2->4->5->5->7,删除后返回 1->-2->4->5->7
+     */
+    public static ListNode deleteDuplication(ListNode pHead) {
+        if(pHead == null) {
+            return pHead;
+        }
+        ListNode p = pHead;
+        while(p.next != null) {
+            ListNode pre = p;
+            ListNode pNext = p.next;
+            while(pNext != null && pNext.val == pre.val) {
+                pNext = pNext.next;
+                pre = pre.next;
+            }
+            p.next = pNext;
+            p = pNext;
+        }
+        return pHead;
+    }
 
     public static int listLength(ListNode head) {
         ListNode p = head;
@@ -290,9 +338,9 @@ public class ListDemo {
     public static void main(String[] args) {
 //        ListNode head = init(4);
         ListNode head = new ListNode(1);
-        ListNode n1 = new ListNode(2);
-        ListNode n2 = new ListNode(3);
-        ListNode n3 = new ListNode(4);
+        ListNode n1 = new ListNode(1);
+        ListNode n2 = new ListNode(2);
+        ListNode n3 = new ListNode(2);
         ListNode n4 = new ListNode(5);
         ListNode n5 = new ListNode(6);
         head.next = n1;
@@ -300,13 +348,13 @@ public class ListDemo {
         n2.next = n3;
         n3.next = n4;
         n4.next = n5;
-        n5.next = n2;
-
-        System.out.println(hasCircle(head, new ListNode(-1)));
-        System.out.println(findLoopPort(head).val);
-        int[] array = new int[10];
-        for(int i=1; i<10; i++) {
-        }
+        deleteDuplication(head);
+        print(head);
+//        System.out.println(hasCircle(head, new ListNode(-1)));
+//        System.out.println(findLoopPort(head).val);
+//        int[] array = new int[10];
+//        for (int i = 1; i < 10; i++) {
+//        }
         // head = removeLastNthNode(head, 5);
         // print(head);
         // head = removeRandomNode(head, n1);
