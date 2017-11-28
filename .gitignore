@@ -288,3 +288,4 @@ target
 *.xml
 *.g4
 *.tokens
+*.xml
