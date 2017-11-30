@@ -12,8 +12,8 @@ public class MaxWindow {
         System.out.println("");
     }
     private static int[] getMaxWindow(int[] arr, int w) {
-        if (arr == null || arr.length == 0) {
-            return null;
+        if (arr == null || arr.length == 0 || w < 1) {
+            return new int[]{};
         }
         int index = 0;
         int[] result = new int[arr.length - w + 1];
