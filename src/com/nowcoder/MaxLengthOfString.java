@@ -1,6 +1,5 @@
 package com.nowcoder;
 
-import java.lang.annotation.Native;
 import java.util.Scanner;
 
 public class MaxLengthOfString {

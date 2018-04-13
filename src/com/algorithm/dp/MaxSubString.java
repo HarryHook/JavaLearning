@@ -44,8 +44,8 @@ public class MaxSubString {
         int max = 0;
         int end = 0;
         while (row < ch1.length) {
-            int i = row;
-            int j = col;
+                int i = row;
+                int j = col;
             int len = 0;
             while (i < ch1.length && j < ch2.length) {
                 if (ch1[i] != ch2[j]) {

@@ -4,6 +4,7 @@ public class MergeLinkedList {
     public static class LinkedNode {
         int val;
         LinkedNode next;
+
         public LinkedNode(int val) {
 
             this.val = val;
@@ -18,7 +19,7 @@ public class MergeLinkedList {
             if (l1.val >= l2.val) {
                 pre.next = l2;
                 l2 = l2.next;
-                if(l2==null) {
+                if (l2 == null) {
                     pre.next.next = l1;
                 }
             } else {
@@ -34,6 +35,27 @@ public class MergeLinkedList {
         return tmp.next;
     }
 
+    public static LinkedNode merge(LinkedNode list1, LinkedNode list2) {
+        LinkedNode pre = new LinkedNode(-1);
+        pre.next = list1;
+        LinkedNode cur = list1;
+        while (list2 != null && cur != null) {
+            if (cur.val < list2.val) {
+                pre = cur;
+                cur = cur.next;
+            } else {
+                pre.next = list2;
+                list2 = list2.next;
+                pre.next.next = cur;
+
+            }
+        }
+        if (list2 != null) {
+            pre.next = list2;
+        }
+        return pre.next.val < list1.val ? pre.next : list1;
+    }
+
     public static void main(String[] args) {
         LinkedNode l1 = new LinkedNode(3);
 //        l1.next = new LinkedNode(4);
@@ -42,9 +64,9 @@ public class MergeLinkedList {
 //        l2.next = new LinkedNode(4);
 //        l2.next.next = new LinkedNode(5);
 
-        LinkedNode head = mergeLinkedList(l1, l2);
+        LinkedNode head = merge(l1, l2);
         LinkedNode p = head;
-        while(p!=null) {
+        while (p != null) {
             System.out.println(p.val);
             p = p.next;
         }

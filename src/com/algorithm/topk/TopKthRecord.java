@@ -1,8 +1,12 @@
-package com.algorithm.zuoshen.day0913;
+package com.algorithm.topk;
 
 import com.collection.HashMap;
 import com.collection.Map;
 
+/*
+小根堆得到最大的N个数
+大根堆得到最小的N个数
+ */
 import java.util.PriorityQueue;
 
 public class TopKthRecord {
@@ -11,11 +15,11 @@ public class TopKthRecord {
                 "a", "b", "c", "d2", "aa", "d", "e1",
                 "a", "bc", "c", "d", "aa", "d", "e"};
         int[] nums = {1, 2, 3, 4, 5, 5, 6, 6, 6, 5465, 4, 45, 5654, 65, 4, 4};
-        System.out.println(findKthLargest(nums, 1));
+        System.out.println(findKthLargest(nums, 5));
         topK(s);
     }
 
-    public static int findKthLargest(int[] nums, int k) {
+    public static PriorityQueue<Integer> findKthLargest(int[] nums, int k) {
         PriorityQueue<Integer> minQueue = new PriorityQueue<>(k);
         for (int num : nums) {
             if (minQueue.size() < k || num > minQueue.peek())
@@ -23,7 +27,7 @@ public class TopKthRecord {
             if (minQueue.size() > k)
                 minQueue.poll();
         }
-        return minQueue.peek();
+        return minQueue;
     }
 
     public static void topK(String[] str) {

@@ -5,7 +5,6 @@ public class HeapSort {
         int[] a = {20, 30, 90, 40, 70, 110, 60, 10, 100, 50, 80};
         heapSort(a, a.length);
         show(a);
-
     }
 
     private static void show(int[] a) {

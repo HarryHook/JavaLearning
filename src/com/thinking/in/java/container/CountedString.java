@@ -53,5 +53,7 @@ public class CountedString {
             System.out.println("Looking up " + cstr);
             System.out.println(map.get(cstr));
         }
+
+        HashMap map1;
     }
 }

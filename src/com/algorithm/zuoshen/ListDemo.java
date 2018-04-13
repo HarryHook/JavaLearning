@@ -33,7 +33,6 @@ public class ListDemo {
                 pCloned.random = pNode.random.next;
             }
             pNode = pCloned.next;
-
         }
     }
 
@@ -67,18 +66,15 @@ public class ListDemo {
         ListNode fast = head;
 
         //while (fast != null && fast.next != null ) { //求偶数情况下的后一个节点
-        while (fast.next.next != null && fast.next != null) {
+        while (fast.next != null && fast.next.next != null ) {
             slow = slow.next;
             fast = fast.next.next;
         }
-
-
         return slow;
     }
     /*
     单链表的转置，分别用递归和非递归实现
      */
-
     public static ListNode reverseByLoop(ListNode head) {
 
         if (head == null || head.next == null) {
@@ -132,11 +128,11 @@ public class ListDemo {
             return head.next;
         } else if (toBeDeleted.next == null) { //尾节点
             ListNode p = head;
-            while (p.next.next != null) { //中间节点
+            while (p.next.next != null) {
                 p = p.next;
             }
             p.next = null;
-        } else {
+        } else {//中间节点
             toBeDeleted.val = toBeDeleted.next.val;
             toBeDeleted.next = toBeDeleted.next.next;
         }
@@ -276,12 +272,12 @@ public class ListDemo {
             p2 = p2.next;
         }
         return null;
-
     }
+
     /*
-    删除重复的节点，不保留
-    1->1->2->2->4->5->5->7,删除后返回 4->7
-     */
+    删除重复的节点，重复节点只保留一个
+    1->1->2->2->4->5->5->7,删除后返回 1->2->4->5->7
+            */
     public static ListNode deleteDuplicationAll(ListNode pHead) {
         if (pHead == null) return pHead;
         ListNode first = new ListNode(-1);
@@ -289,7 +285,6 @@ public class ListDemo {
         ListNode p = pHead;
         ListNode last = first;
         while (p != null && p.next != null) {
-
             if (p.val == p.next.val) {
                 int val = p.val;
                 while (p != null && val == p.val) {
@@ -303,19 +298,20 @@ public class ListDemo {
         }
         return first.next;
     }
+
     /*
-    删除重复的节点，但是保留一个
-    1->1->2->2->4->5->5->7,删除后返回 1->-2->4->5->7
+    删除重复的节点，重复节点不保留
+    1->1->2->2->4->5->5->7,删除后返回 4->7
      */
     public static ListNode deleteDuplication(ListNode pHead) {
-        if(pHead == null) {
+        if (pHead == null) {
             return pHead;
         }
         ListNode p = pHead;
-        while(p.next != null) {
+        while (p.next != null) {
             ListNode pre = p;
             ListNode pNext = p.next;
-            while(pNext != null && pNext.val == pre.val) {
+            while (pNext != null && pNext.val == pre.val) {
                 pNext = pNext.next;
                 pre = pre.next;
             }
@@ -323,6 +319,27 @@ public class ListDemo {
             p = pNext;
         }
         return pHead;
+    }
+    public ListNode merge(ListNode list1, ListNode list2) {
+        ListNode tmp = new ListNode(0);
+        ListNode pre = tmp;
+        while(list1 != null && list2 != null) {
+            if(list1.val <= list2.val) {
+                pre.next = list1;
+                list1 = list1.next;
+            } else {
+                pre.next = list2;
+                list2 = list2.next;
+            }
+            pre = pre.next;
+        }
+        if(list1 == null) {
+            pre.next = list2;
+        }
+        if(list2 == null) {
+            pre.next = list1;
+        }
+        return tmp.next;
     }
 
     public static int listLength(ListNode head) {
@@ -348,7 +365,7 @@ public class ListDemo {
         n2.next = n3;
         n3.next = n4;
         n4.next = n5;
-        deleteDuplication(head);
+        reverseByLoop(head);
         print(head);
 //        System.out.println(hasCircle(head, new ListNode(-1)));
 //        System.out.println(findLoopPort(head).val);

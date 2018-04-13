@@ -11,13 +11,13 @@ class ThreadDemo extends Thread {
             System.out.println(currentThread().getName() + " call notify()");
             notify();
         }
-
     }
 }
 
 public class WaitTest {
     public static void main(String[] args) {
         ThreadDemo t1 = new ThreadDemo("t1");
+        ThreadDemo t2= new ThreadDemo("t2");
         synchronized (t1) {
             try {
                 System.out.println(Thread.currentThread().getName() + " start t1");
@@ -30,6 +30,7 @@ public class WaitTest {
                 所以，此时的“当前线程”是“主线程main”！因此，t1.wait()是让“主线程”等待，而不是“线程t1”！
                  */
                 t1.wait();
+                t2.start();
                 System.out.println(Thread.currentThread().getName() + " continue");
             } catch (Exception e) {
                 e.printStackTrace();

@@ -95,6 +95,7 @@ public class HashMap<K, V>
     // 返回索引值
     // h & (length-1)保证返回值的小于length
     static int indexFor(int h, int length) {
+
         return h & (length - 1);
     }
 
